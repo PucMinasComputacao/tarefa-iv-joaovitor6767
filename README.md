@@ -10,6 +10,8 @@ Este projeto tem como objetivo apresentar a história da cidade de Betim, locali
 
 ![image_URL]( https://github.com/PucMinasComputacao/tarefa-iv-joaovitor6767/blob/main/SITE%20ESBO%C3%87O.png?raw=true)
 
+![image_URL](https://github.com/PucMinasComputacao/tarefa-iv-joaovitor6767/blob/main/Imagem%20do%20esbo%C3%A7o%20(wireframe)%20criado%20para%20o%20projeto%20Original.png?raw=true)
+
 
 
 
