@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #f5f5f5;
+}
+
+/* Topo */
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  background: #ddd;
+}
+
+.logo {
+  font-weight: bold;
+}
+
+.search {
+  width: 40%;
+  padding: 5px;
+}
+
+.top-buttons button {
+  margin-left: 5px;
+}
+
+/* Layout */
+.container {
+  display: flex;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 200px;
+  background: #e0e0e0;
+  padding: 10px;
+}
+
+.sidebar button {
+  display: block;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.sub-box {
+  height: 20px;
+  background: #bbb;
+  margin: 5px 0;
+}
+
+/* Conteúdo */
+.content {
+  flex: 1;
+  padding: 15px;
+}
+
+/* Menu */
+.menu {
+  margin-bottom: 10px;
+}
+
+.menu button {
+  margin-right: 5px;
+}
+
+/* Banner */
+.banner {
+  height: 150px;
+  background: #ccc;
+  margin-bottom: 20px;
+}
+
+/* Vídeos */
+.videos {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.video-card {
+  width: 180px;
+  height: 120px;
+  background: #bbb;
+}
