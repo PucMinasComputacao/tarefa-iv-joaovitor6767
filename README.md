@@ -8,7 +8,11 @@ A proposta do projeto é explicar sobre a minha cidade betim e a sua hsitoria at
 
 Este projeto tem como objetivo apresentar a história da cidade de Betim, localizada no estado de Minas Gerais, destacando sua origem, desenvolvimento e importância econômica e cultural ao longo dos anos. Além disso, será desenvolvido um site informativo que reunirá conteúdos como textos, imagens e curiosidades sobre o município, proporcionando uma navegação simples e acessível aos usuários. O site busca valorizar a identidade local e facilitar o acesso ao conhecimento histórico de Betim de forma moderna e interativa.
 
+Página Web:
+
 ![image_URL]( https://github.com/PucMinasComputacao/tarefa-iv-joaovitor6767/blob/main/SITE%20ESBO%C3%87O.png?raw=true)
+
+Wireframe:
 
 ![image_URL](https://github.com/PucMinasComputacao/tarefa-iv-joaovitor6767/blob/main/Imagem%20do%20esbo%C3%A7o%20(wireframe)%20criado%20para%20o%20projeto%20Original.png?raw=true)
 
